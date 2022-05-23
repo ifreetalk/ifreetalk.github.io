@@ -10,6 +10,12 @@
     </head>
     <body>
         <div id="app">玩命加载中...</div>
+        <!-- 离线支持 -->
+        <script>
+            if (typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('sw.js')
+            }
+        </script>
         <script>
             window.$docsify = {
                 name: '',
