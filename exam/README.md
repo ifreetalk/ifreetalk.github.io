@@ -10,8 +10,10 @@
 
 ## 考题下载链接（PDF格式）
 
-| 考题     | 链接 | 更新时间            |
-| -------- | ---- | ------------------- |
-| 主持考题 |      | `2022`年`5`月`23`日 |
-| 指挥考题 |      | `2022`年`5`月`23`日 |
+> **主持考题**:
+> - [蓝奏云下载（不限速）](https://wws.lanzoub.com/izRy805emhva) 密码：`hu4x`
+> - [直接下载](https://ghproxy.com/https://raw.githubusercontent.com/ifreetalk/ifreetalk.github.io/main/%E4%B8%BB%E6%8C%81%E8%80%83%E9%A2%98.pdf)
 
+> **指挥考题**:
+> - [蓝奏云下载（不限速）](https://wws.lanzoub.com/iAoKQ05emhti) 密码：`eir5`
+> - [直接下载](https://ghproxy.com/https://raw.githubusercontent.com/ifreetalk/ifreetalk.github.io/main/%E6%8C%87%E6%8C%A5%E8%80%83%E9%A2%98.pdf)
