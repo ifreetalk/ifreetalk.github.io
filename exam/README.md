@@ -17,3 +17,7 @@
 > **指挥考题**:
 > - [蓝奏云下载（不限速）](https://wws.lanzoub.com/iAoKQ05emhti) 密码：`eir5`
 > - [直接下载](https://ghproxy.com/https://raw.githubusercontent.com/ifreetalk/ifreetalk.github.io/main/%E6%8C%87%E6%8C%A5%E8%80%83%E9%A2%98.pdf)
+
+## 推荐的指挥音乐
+
+> - [指挥音乐推荐（QQ音乐）](https://i.y.qq.com/n2/m/share/details/taoge.html?platform=11&appshare=android_qq&appversion=10150009&hosteuin=oK6kowEAoK4z7eSloevP7iCz7n**&id=8423014920&ADTAG=wxfshare)
