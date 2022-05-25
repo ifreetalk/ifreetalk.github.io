@@ -113,12 +113,6 @@
 > - 注意防守令和守护令的区别
 > - 所有令的价格都是500元宝
 
-### 附录
-
-#### 推荐的指挥音乐
-
-> - [指挥音乐推荐（QQ音乐）](https://i.y.qq.com/n2/m/share/details/taoge.html?platform=11&appshare=android_qq&appversion=10150009&hosteuin=oK6kowEAoK4z7eSloevP7iCz7n**&id=8423014920&ADTAG=wxfshare)
-
 <p align="right">争先团队专属</p>
 <p align="right">森哥 制作</p>
 <p align="right">213703642</p>
